@@ -8,6 +8,8 @@ I'm creating structure folder like this
 ```folder
 - public
 - src
+  - features
+  - assets
   - containers
     - components
     - pages
