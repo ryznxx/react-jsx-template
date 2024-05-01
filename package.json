@@ -1,6 +1,6 @@
 {
   "name": "react-jsx-template-id",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -44,6 +44,9 @@
   "author": "ryznxx",
   "license": "MIT",
   "keywords": ["react","react template","jsx","flexible","reactjs","reactjs-template"],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
