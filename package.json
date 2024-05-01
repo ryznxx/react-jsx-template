@@ -1,5 +1,5 @@
 {
-  "name": "react-jsx-template",
+  "name": "react-jsx-template-id",
   "version": "1.2.0",
   "private": false,
   "dependencies": {
@@ -43,6 +43,7 @@
   "main": "index.js",
   "author": "ryznxx",
   "license": "MIT",
+  "keywords": ["react","react template","jsx","flexible","reactjs","reactjs-template"],
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
