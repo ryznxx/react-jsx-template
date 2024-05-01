@@ -18,7 +18,7 @@ To get started with this project, follow the steps below:
 
 ### Installation
 
-1. Make sure you have Node.js and npm installed on your system.
+1. Make sure you have Node.js, npm and yarn installed on your system.
 2. Clone this repository to your local machine using:
    ```
    git clone https://github.com/ryznxx/react-jsx-template.git
@@ -31,11 +31,11 @@ To get started with this project, follow the steps below:
    ```
    npm install
    ```
-5. Or use yarn to Install all dependencies by running:
+   Or use yarn to Install all dependencies by running:
    ```
    yarn install
    ```
-6. And start the project now
+5. And start the project
    ```
    npm start
    yarn start
