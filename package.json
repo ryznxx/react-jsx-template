@@ -41,7 +41,7 @@
   },
   "description": "react template jsx",
   "main": "index.js",
-  "author": "ryuzenfarizi@gmail.com",
+  "author": "ryznxx",
   "license": "MIT",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
